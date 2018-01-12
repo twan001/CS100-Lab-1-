@@ -1,1 +1,1 @@
-This program prints "hello git"
+this program asks the user for their name, then says hello.
